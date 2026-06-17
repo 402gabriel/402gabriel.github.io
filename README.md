@@ -1,4 +1,3 @@
-# 402gabriel.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
